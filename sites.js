@@ -19,4 +19,9 @@ let sites =
 		url: "https://vofr.net",
 		tagline: "Only you can prevent toll fraud."
 	}
+	,{
+		name: "PlayaTel BBS",
+		url: "https://bbs.playa.tel",
+		tagline: "Another great service from your CO here at 7:30 & C"
+	}		 
 ]
