@@ -33,5 +33,10 @@ let sites =
 		name: "k4nfp.net",
 		url: "https://k4nfp.net",
 		tagline: "a conglomeration of weird old telephone stuff, with some RF sprinkled in.."
-	}
+	},
+	 {
+		name: "kirkovsky.com",
+		url:"https://kirkovsky.com",
+		tagline:"i'd rather be slowly consumed by moss"
+	 }
 ]
