@@ -34,4 +34,9 @@ let sites =
 		url: "https://k4nfp.net",
 		tagline: "a conglomeration of weird old telephone stuff, with some RF sprinkled in.."
 	}
+	,{
+		name: "Incompetel",
+		url: "http://incompetel.net",
+		tagline: "It's in the name."
+	}
 ]
